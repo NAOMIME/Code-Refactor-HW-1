@@ -1,0 +1,45 @@
+body{
+    background-color: gray;
+}
+div{
+    padding: 5px;
+    background-color: lightgrey;
+}
+#wrapperDiv{
+    background-color: grey;
+    width: 80%;
+}
+#headerDiv, #navDiv, #footerDiv {
+    width: 98.79%;
+    height: 50px;
+    margin-bottom: 5px;
+}
+
+#sectionDiv, #asideDiv {
+    width: 48.5%;
+    height: 180px;
+    margin-bottom: 10px;
+}
+#sectionDiv {
+    float: left;
+
+}
+#asideDiv {
+    float: right;
+}
+
+#footerDiv {
+    clear: both;
+    margin-top: 10px;
+ }
+ p{
+     text-align: center;
+ }
+ #articleDiv {
+     padding: 5px;
+     background-color: gray;
+ }
+
+ #articleHeader , #mainArticle{
+    margin-bottom: 5px;
+ }
